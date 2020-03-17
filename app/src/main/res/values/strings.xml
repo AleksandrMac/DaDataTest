@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaDataTest</string>
+    <string name="hint_input_inn">Введите ИНН</string>
+    <string name="btn_find">Найти</string>
+</resources>
